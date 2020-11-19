@@ -9,5 +9,7 @@ int main(){
     i = 5;
     j = 2;
     printf("%d", i+j);
+
+    printf("Esse foi um exemplo de versionamento!");
     return 0;
 }
